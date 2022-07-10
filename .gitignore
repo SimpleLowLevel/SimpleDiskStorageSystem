@@ -1,0 +1,13 @@
+# Vscode settings
+.vscode/
+
+# Virtual environment
+env/
+
+# Binaries
+**/bin/
+**/build/
+
+# Tests
+**/test/
+**/tests/
